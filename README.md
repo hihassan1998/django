@@ -11,7 +11,7 @@ Clone the repository to your local machine:
 
  bash-windows
  
-git clone https://github.com/your-username/onlinecourse-app.git
+git clone https://github.com/hihassan1998/django.git
 Navigate to the app's directory:
 
  bash-windows
