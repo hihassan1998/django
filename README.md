@@ -1,8 +1,10 @@
-#OnlineCourse App
-##Summary
+# OnlineCourse App
+
+## Summary
+
 This repository contains the code for the OnlineCourse app, developed as part of a lab that focuses on incorporating features into an app using class-based and generic views. The lab compares function-based views with built-in generic views, showcasing how class-based views streamline the development process by abstracting common tasks into super classes. This abstraction reduces workload and simplifies the implementation of app features.
 
-#Usage
+### Usage
 To use this app, follow these steps:
 
 Clone the repository to your local machine:
