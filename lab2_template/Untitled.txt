@@ -1,0 +1,6 @@
+user:
+admin
+psw:
+Admin01
+email
+admin@gmail.com
