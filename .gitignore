@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.class
+
+# Local development settings
+local_settings.py
+
+# Database files
+db.sqlite3
+
+# Static files
+staticfiles/
+*.pyc
+
+# Media files
+media/
+
+# Virtual environment
+venv/
+.env
+
+# macOS
+.DS_Store
+
+# PyCharm files
+.idea/
+
+# Visual Studio Code files
+.vscode/
+
+# Compiled Python files
+*.pyc
+
+# Compiled C extension files
+*.so
+
+# Compiled bytecode files
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Ignore secret key file (should be added manually on production)
+secret_key.txt
+
+# Ignore environment-specific files
+.env
+.env.local
+.env.*.local
+
+# Ignore pipenv virtual environment
+/.venv
+
+# Ignore node_modules
+/node_modules
